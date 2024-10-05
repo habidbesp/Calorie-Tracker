@@ -2,6 +2,10 @@
 
 Calorie Tracker is a React application designed to help users track their daily calorie intake and calories burned through exercise. The app allows users to log meals, snacks, and exercises, making it easier to monitor their calorie balance and achieve their fitness goals.
 
+## Live Demo
+
+[Calorie Tracker - Live Demo](https://calorie-tracker-eosin.vercel.app/)
+
 ## Features
 
 - Log daily food intake and track calories consumed.
@@ -20,22 +24,19 @@ The project was developed using:
 - **useReducer**: A React hook for managing complex state logic.
 - **Custom Hooks**: For managing global context.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **react-swipeable-list**: An npm package for creating swipeable lists.
-- **react-circular-progressbar**: A library for creating circular progress bars.
-- **@headlessui/react**: For rendering animated modals.
 
 ## How to Run the Project
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/habidbesp/Expense-Manager.git
+   git clone https://github.com/habidbesp/Calorie-Tracker.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Expense-Manager
+   cd Calorie-Tracker
    ```
 
 3. Install dependencies:
