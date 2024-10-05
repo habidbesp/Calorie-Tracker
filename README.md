@@ -4,6 +4,8 @@ Calorie Tracker is a React application designed to help users track their daily 
 
 ## Live Demo
 
+You can check out the live version of the Calorie Tracker app deployed on Vercel by clicking the link below:
+
 [Calorie Tracker - Live Demo](https://calorie-tracker-eosin.vercel.app/)
 
 ## Features
