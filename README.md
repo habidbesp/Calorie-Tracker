@@ -26,6 +26,7 @@ The project was developed using:
 - **useReducer**: A React hook for managing complex state logic.
 - **Custom Hooks**: For managing global context.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
+- **Vercel**: For deployment and hosting the live app.
 
 ## How to Run the Project
 
